@@ -1,0 +1,10 @@
+{
+    "id": "asdfjira",
+    "name": "asdfjira",
+    "description": "",
+    "frontend": {
+        "webapp": {
+            "bundle_path": "/static/asdfjira_bundle.js"
+        }
+    }
+}

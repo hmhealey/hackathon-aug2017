@@ -1,0 +1,10 @@
+{
+    "id": "asdf",
+    "name": "asdf",
+    "description": "foo",
+    "frontend": {
+        "webapp": {
+            "bundle_path": "/static/asdf_bundle.js"
+        }
+    }
+}

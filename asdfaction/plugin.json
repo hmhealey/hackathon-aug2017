@@ -1,0 +1,10 @@
+{
+    "id": "asdfaction",
+    "name": "asdfaction",
+    "description": "",
+    "frontend": {
+        "webapp": {
+            "bundle_path": "/static/asdfaction_bundle.js"
+        }
+    }
+}
